@@ -1,4 +1,4 @@
-# webscraping_tutorial
+# webscraping_beginner_project
 
 
 Web Scraping
