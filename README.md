@@ -8,5 +8,3 @@ what it find:- the jobs that are related to python field and are posted few days
 
 extra feature:- filter out the skills that you are not familiar with
 
-what it find:- the jobs that are related to python field and are posted few days ago in this website
-extra feature:- filter out the skills that you are not familiar with
